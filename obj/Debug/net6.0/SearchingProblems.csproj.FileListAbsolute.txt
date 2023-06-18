@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.AssemblyInfo.cs
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\bin\Debug\net6.0\SearchingProblems.exe
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\bin\Debug\net6.0\SearchingProblems.deps.json
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\bin\Debug\net6.0\SearchingProblems.runtimeconfig.json
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\bin\Debug\net6.0\SearchingProblems.dll
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\bin\Debug\net6.0\SearchingProblems.pdb
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.dll
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\refint\SearchingProblems.dll
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.pdb
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\SearchingProblems.genruntimeconfig.cache
+C:\Users\prajw\source\repos\SearchingProblems\SearchingProblems\obj\Debug\net6.0\ref\SearchingProblems.dll
